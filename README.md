@@ -14,5 +14,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lairdstreak)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lairdstreak)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lairdstreak)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lairdstreak&theme=default)
 
