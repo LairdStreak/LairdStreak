@@ -20,3 +20,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![An image of @lairdstreak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lairdstreak)](https://holopin.io/@lairdstreak)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lairdstreak&theme=dark)](https://git.io/streak-stats)
